@@ -10,8 +10,8 @@ I'm a data enthusiast and I love finding hidden stories in chaotic information.
 
 Wish you have a wonderful journey exploring my repositories! 👋
 
-**Connect with me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dk-khanh-lu/)
+## **Connect with me** 📫
+[LinkedIn](https://www.linkedin.com/in/dk-khanh-lu/)
 
 ## Technical Skills
 
