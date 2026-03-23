@@ -12,7 +12,7 @@ Wish you have a wonderful journey exploring my repositories! 👋
 
 ## **Connect with me** 📫
 
-**LinkedIn**: https://www.linkedin.com/in/dk-khanh-lu/
+- **LinkedIn**: https://www.linkedin.com/in/dk-khanh-lu/
 
 ## Technical Skills
 
